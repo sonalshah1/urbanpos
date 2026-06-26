@@ -1,0 +1,16 @@
+{
+  "name": "RetailOS",
+  "short_name": "RetailOS",
+  "description": "Customer retention operating system for local retail businesses",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/retailos.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
